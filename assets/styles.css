@@ -1,0 +1,43 @@
+header{
+    padding: 20 px;
+    margin: auto;
+    background-size: cover;
+    color: whitesmoke;
+     justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+}
+
+.hero{
+    background: url('/assets/images/OIP\ 3.webp') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+section.container{
+    padding: 60px 60px;
+    text-align: center;
+}
+
+.carousel-item img{
+    height: 600px;
+    width: 100%;
+    object-fit: contain;
+}
+
+.carousel-caption{
+    background: rgba(0,0,0,0.5);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#message{
+    font-size: 24px;
+    font-weight: bold;
+    color: red;
+    margin-top: 20px;
+}
