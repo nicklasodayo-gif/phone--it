@@ -3,13 +3,13 @@ header{
     margin: auto;
     background-size: cover;
     color: whitesmoke;
-     justify-content: space-evenly;
+    justify-content: space-evenly;
     display: flex;
     align-items: center;
 }
 
 .hero{
-    background: url('assets\images\OIP (3).jpeg') no-repeat center center/cover;
+    background: url('/assets/images/OIP\ \(3\).jpeg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     justify-content: center;
